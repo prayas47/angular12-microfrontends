@@ -1,0 +1,6 @@
+[submodule "projects/mdmf-profile"]
+	path = projects/mdmf-profile
+	url = https://github.com/prayas47/mdmf-profile.git
+[submodule "projects/mdmf-shell"]
+	path = projects/mdmf-shell
+	url = https://github.com/prayas47/mdmf-shell.git
